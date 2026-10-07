@@ -1,2 +1,3 @@
-# kelanaserver-auto-demo
-Demo verifikasi import repository dan auto deployment KelanaServer.
+# KelanaServer Vite demo
+
+Branch khusus untuk verifikasi deteksi framework, build otomatis dan deploy on push.
