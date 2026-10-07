@@ -1,1 +1,1 @@
-document.querySelector('#version').textContent='Vite versi 1 · Build dan deployment dari GitHub berhasil.';
+document.querySelector('#version').textContent='Vite versi 2 · Push baru otomatis dibuild dan diterbitkan.';
